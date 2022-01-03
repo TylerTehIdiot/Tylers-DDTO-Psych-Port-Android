@@ -19,7 +19,7 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
-monika
-sayo
-nat
-yuri
+Monika
+Sayo
+Nat
+Yuri
